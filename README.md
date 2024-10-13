@@ -32,3 +32,9 @@ Best Browser Extensions:
   CSS Exfil Protection: Chromium: https://chromewebstore.google.com/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo FireFox: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection/
   LocalCDN: https://www.localcdn.org
   Neat URL: Chromium: https://chromewebstore.google.com/detail/neat-url/jchobbjgibcahbheicfocecmhocglkco FireFox: https://addons.mozilla.org/en-US/firefox/addon/neat-url/
+Search Engines:
+  SearXNG: https://searx.be/?q=%s (NOTE %s is the search)
+  StartPage: https://www.startpage.com/sp/search?query=%s&cat=web&pl=opensearch
+  Brave: https://search.brave.com/search?q=%s
+  DuckDuckGo: https://duckduckgo.com/?t=ffab&q=%s&atb=v443-1 (note least recommended only search for like images or sum)
+  Google: https://www.google.com/search?q=%s (NOTE WORST ONE ONLY USE IF U REALLY NEED GOOD SEARCH RESULTS OR REVERSE IMAGE SEARCH)
