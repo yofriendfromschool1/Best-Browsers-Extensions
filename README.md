@@ -1,0 +1,34 @@
+# Best-Browsers-Extensions
+Best Browsers:
+  FireFox Forks:
+    LibreWolf: https://librewolf.net/
+    Mullvad Browser: https://mullvad.net/en/browser
+    TOR Browser: https://www.torproject.org/download/
+  Chromium:
+    Brave: https://brave.com/ (note dont recommend using the TOR private mode in this just use TOR Browser.)
+Best Browser Extensions:
+  NoScript: https://noscript.net/
+  UBlock Origin: https://ublockorigin.com/
+  SponsorBlock: https://sponsor.ajay.app/
+  DeArrow: https://dearrow.ajay.app/
+  Mullvad: https://mullvad.net/en/download/browser/extension
+  FlowCrypt: https://flowcrypt.com/
+  KeePassXC: https://keepassxc.org/download/#browser (note you need the program downloaded)
+  Privacy Badger: https://privacybadger.org/
+  User Agent Switcher: Chromium: https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?pli=1 FireFox: https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
+  WebRTC Disabler: Chromium: https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm FireFox: https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/
+  Mailvelope: https://mailvelope.com/en
+  Dark Reader: https://darkreader.org/
+  Search By Image: Chromium: https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci FireFox: https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
+  Violent Monkey: https://violentmonkey.github.io/
+  FastForward: https://fastforward.team/
+  Return Youtube Dislike: https://returnyoutubedislike.com/
+  Canvas Blocker: Chromium: https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd?hl=en FireFox: https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
+  Smart Referer: Chromium: https://chromewebstore.google.com/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin?hl=en FireFox: https://addons.mozilla.org/en-US/firefox/addon/smart-referer/
+  DuckDuckGo Privacy Essentials: FireFox: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/ (note only recommended for firefox)
+  Decentraleyes: https://decentraleyes.org/
+  ClearURLs: https://docs.clearurls.xyz/1.26.1/#download
+  MetaClean for Gmail: Chromium: https://chromewebstore.google.com/detail/metaclean-for-gmail/ifhaebfhlkmamahknibbbpfddoeidimi?hl=nl FireFox: https://addons.mozilla.org/en-US/firefox/addon/metaclean-for-gmail-v215/
+  CSS Exfil Protection: Chromium: https://chromewebstore.google.com/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo FireFox: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection/
+  LocalCDN: https://www.localcdn.org
+  Neat URL: Chromium: https://chromewebstore.google.com/detail/neat-url/jchobbjgibcahbheicfocecmhocglkco FireFox: https://addons.mozilla.org/en-US/firefox/addon/neat-url/
