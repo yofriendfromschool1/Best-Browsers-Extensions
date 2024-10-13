@@ -1,6 +1,7 @@
 # Best-Browsers-Extensions
 Best Browsers:
   FireFox Forks:
+    User.js: https://github.com/arkenfox/user.js
     LibreWolf: https://librewolf.net/
     Mullvad Browser: https://mullvad.net/en/browser
     TOR Browser: https://www.torproject.org/download/
