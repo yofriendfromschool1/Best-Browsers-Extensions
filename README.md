@@ -40,3 +40,5 @@ Search Engines:
   Mullvad Leta: https://leta.mullvad.net/?q=%s (note you need to be connected to Mullvad VPN to use it)
   DuckDuckGo: https://duckduckgo.com/?t=ffab&q=%s&atb=v443-1 (note least recommended only search for like images or sum)
   Google: https://www.google.com/search?q=%s (NOTE WORST ONE ONLY USE IF U REALLY NEED GOOD SEARCH RESULTS OR REVERSE IMAGE SEARCH)
+  NEED TOR FOR BELOW
+  https://ahmia.fi
